@@ -1,0 +1,7 @@
+HolyC:
+  type: programming
+  color: "#563d7c"
+  extensions:
+  - ".hc"
+  - ".hC"
+  - ".HC"
